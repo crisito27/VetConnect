@@ -1,24 +1,5 @@
 VetConnect — Actividad Semana 2
 
-Descripción
-------------
-Este repositorio contiene la primera versión de VetConnect creada para la Actividad de la Semana 2 (Git · GitHub · HTML · CSS · Branches). Incluye la página principal (index.html), estilos (styles.css), y una página de contacto (contact.html). Además se realizó la simulación de trabajar desde otro computador (clonar, modificar, push y pull).
-
-Instrucciones para reproducir la actividad
------------------------------------------
-1. Clonar el repositorio desde GitHub:
-   git clone https://github.com/crisito27/VetConnect.git
-2. Entrar en la carpeta:
-   cd VetConnect
-3. Comprobar el estado:
-   git status
-4. Realizar cambios (por ejemplo, agregar la sección Horario de atención en index.html), luego:
-   git add .
-   git commit -m "Agrega horario de atención"
-   git push
-5. En la copia original del proyecto, actualizar:
-   git pull
-
 Respuestas a las preguntas de la actividad
 -----------------------------------------
 1) ¿Qué diferencia existe entre descargar un ZIP y utilizar git clone?
@@ -56,24 +37,4 @@ Rutas locales utilizadas
 ------------------------
 - Copia original del proyecto (laboratorio): C:\Users\AMD Ryzen\VetConnect
 - Carpeta que simula el segundo computador: C:\Semana2-PC-Casa\VetConnect
-
-Comandos ejecutados (resumen)
------------------------------
-# En la copia original (cierre del primer bloque):
-git status
-git add .
-git commit -m "Finaliza primer bloque Semana 2"
-git push
-
-# En la copia que simula el segundo computador:
-git clone https://github.com/crisito27/VetConnect.git
-cd VetConnect
-# editar index.html -> agregar sección Horario de atención
-git add .
-git commit -m "Agrega horario de atención"
-git push
-
-# Volver a la copia original y traer cambios:
-cd C:\Users\AMD Ryzen\VetConnect
-git pull
 
