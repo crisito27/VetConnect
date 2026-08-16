@@ -77,9 +77,3 @@ git push
 cd C:\Users\AMD Ryzen\VetConnect
 git pull
 
-Contacto
---------
-Si necesitan que este README incluya capturas de pantalla concretas, un PDF con la evidencia o un formato específico para entrega, indicad lo que se requiere y lo preparo y subo al repositorio.
-
----
-Archivo generado automáticamente como parte de la actividad de la Semana 2.
