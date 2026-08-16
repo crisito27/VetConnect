@@ -1,5 +1,7 @@
 VetConnect — Actividad Semana 2
 
+Este repositorio contiene la versión final de VetConnect con la estructura HTML semántica, la hoja de estilos externa en css/style.css y la página de contacto (contacto.html) integrada junto con la funcionalidad de ramas y merge.
+
 Respuestas a las preguntas de la actividad
 -----------------------------------------
 1) ¿Qué diferencia existe entre descargar un ZIP y utilizar git clone?
